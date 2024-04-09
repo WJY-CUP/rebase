@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 /**
  * @Author: Wan Jiangyuan
  * @Description:
@@ -13,5 +15,7 @@ public class rebase {
 
         new Thread(() -> System.out.println("thread")).start();
         Integer integer = 3;
+
+        HashMap<Object, Object> objectObjectHashMap = new HashMap<>();
     }
 }
