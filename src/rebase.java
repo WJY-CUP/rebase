@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
  * @Author: Wan Jiangyuan
  * @Description:
@@ -12,5 +14,8 @@ public class rebase {
         System.out.println("main 444");
 
         Integer integer = 3;
+
+        Double d = 1.0;
+        ArrayList<Object> objects = new ArrayList<>();
     }
 }
