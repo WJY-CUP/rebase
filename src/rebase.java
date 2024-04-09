@@ -12,5 +12,6 @@ public class rebase {
         System.out.println("main 444");
 
         new Thread(() -> System.out.println("thread")).start();
+        Integer integer = 3;
     }
 }
