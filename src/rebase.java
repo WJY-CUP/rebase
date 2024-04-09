@@ -10,5 +10,7 @@ public class rebase {
     public static void main(String[] args) {
         System.out.println("test rebase 20:38");
         System.out.println("main 444");
+
+        Integer integer = 1;
     }
 }
