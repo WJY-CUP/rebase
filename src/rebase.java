@@ -19,6 +19,6 @@ public class rebase {
         ArrayList<Object> objects = new ArrayList<>();
 
         System.out.println("------------------");
-        char c = 'a';
+        char c = 'b';
     }
 }
