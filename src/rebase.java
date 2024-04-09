@@ -13,5 +13,6 @@ public class rebase {
         System.out.println("test rebase 20:38");
         String string = new String();
         System.out.println("test rebase 20:38");
+        System.out.println("main 111");
     }
 }
