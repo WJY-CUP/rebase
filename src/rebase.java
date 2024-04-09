@@ -20,5 +20,8 @@ public class rebase {
         HashMap<Object, Object> objectObjectHashMap = new HashMap<>();
         Double d = 2.0;
         ArrayList<Object> objects = new ArrayList<>();
+
+        System.out.println("***********************");
+
     }
 }
