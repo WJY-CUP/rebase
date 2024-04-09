@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
@@ -17,5 +18,7 @@ public class rebase {
         Integer integer = 3;
 
         HashMap<Object, Object> objectObjectHashMap = new HashMap<>();
+        Double d = 2.0;
+        ArrayList<Object> objects = new ArrayList<>();
     }
 }
