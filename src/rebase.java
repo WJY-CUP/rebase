@@ -15,7 +15,7 @@ public class rebase {
 
         Integer integer = 3;
 
-        Double d = 1.0;
+        Double d = 2.0;
         ArrayList<Object> objects = new ArrayList<>();
     }
 }
