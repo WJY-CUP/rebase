@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.operations.String;
+
 /**
  * @Author: Wan Jiangyuan
  * @Description:
@@ -9,5 +11,6 @@ public class rebase {
 
     public static void main(String[] args) {
         System.out.println("test rebase 20:36");
+        String string = new String();
     }
 }
