@@ -17,5 +17,8 @@ public class rebase {
 
         Double d = 2.0;
         ArrayList<Object> objects = new ArrayList<>();
+
+        System.out.println("------------------");
+        char c = 'a';
     }
 }
