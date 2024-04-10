@@ -21,6 +21,6 @@ public class rebase {
         System.out.println("******************");
         char c = 'b';
 
-        int i = 1;
+        int i = 2;
     }
 }
