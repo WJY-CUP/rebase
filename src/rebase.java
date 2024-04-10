@@ -22,6 +22,8 @@ public class rebase {
         ArrayList<Object> objects = new ArrayList<>();
 
         System.out.println("***********************");
+        
+        double dd = 12.0;
 
     }
 }
